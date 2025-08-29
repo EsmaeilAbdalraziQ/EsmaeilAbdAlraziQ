@@ -1,8 +1,8 @@
-## Hi, My Name is Esmaeil AbdAlraziQ 👋
+💡 About Me
 
-A Dedicated and Energetic Individual Seeking a Challenging Career as a Software Quality Engineer to Contribute to the Delivery of Quality Software Solutions 
-by applying Interpersonal Skills and Knowledge acquired through the ITI and my work Experience in Various Software Fields.
+A dedicated and detail-oriented Software Quality Engineer passionate about delivering high-quality, reliable software solutions. I bring a mix of hands-on testing experience and interpersonal skills gained through my ITI training and professional work in diverse software domains. My goal is to continuously grow as a QA professional while contributing to impactful projects.
 
-- 🔭 I’m currently working on Leveling Up my Automation Test Skills
-- 🌱 I’m currently learning Selenium, TestNG, Using Java
-- 📫 How to reach me: By LinkedIn Profile
+🔭 Currently enhancing my Automation Testing expertise
+🌱 Learning Selenium & TestNG with Java to strengthen test frameworks
+🌍 Based in Cairo, Egypt
+📫 Reach me via LinkedIn Profile
